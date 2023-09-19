@@ -30,7 +30,7 @@ public class Principal {
             podcast.curte();
         }
 
-        MinhasPreferidas minhasPreferidas= new MinhasPreferidas();
+        MinhasPreferidas minhasPreferidas = new MinhasPreferidas();
         minhasPreferidas.inclui(musica);
         minhasPreferidas.inclui(podcast);
 
